@@ -1,0 +1,19 @@
+{
+  "name": "latihan-api",
+  "version": "1.0.0",
+  "description": "latihan",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaenal Alfian",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.4.0",
+    "dotenv": "^17.2.0",
+    "nanoid": "^5.1.5",
+    "node-pg-migrate": "^8.0.3",
+    "nodemon": "^3.1.10",
+    "pg": "^8.16.3"
+  }
+}
